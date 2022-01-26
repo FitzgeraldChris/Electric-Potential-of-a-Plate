@@ -1,1 +1,1 @@
-# Electric-Potential-of-a-Plate
+# Electric Potential of a Plate
